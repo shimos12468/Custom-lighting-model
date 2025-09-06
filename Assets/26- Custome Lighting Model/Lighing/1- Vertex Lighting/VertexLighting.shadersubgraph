@@ -508,7 +508,7 @@
         "component mask"
     ],
     "m_Precision": 0,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -619,8 +619,8 @@
     "m_ObjectId": "2b6a56d718d9451ab74f478e3677a8d2",
     "m_Title": "Ambient",
     "m_Position": {
-        "x": -714.9999389648438,
-        "y": -1166.0
+        "x": -714.9998779296875,
+        "y": -1165.9998779296875
     }
 }
 
@@ -631,7 +631,7 @@
     "m_Title": "Lammbert Diffuse",
     "m_Position": {
         "x": -582.0,
-        "y": -236.00003051757813
+        "y": -236.0
     }
 }
 
@@ -1969,7 +1969,7 @@
     "m_ShaderOutputName": "B",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 1.0,
+        "x": 3.0,
         "y": 0.0,
         "z": 0.0,
         "w": 0.0

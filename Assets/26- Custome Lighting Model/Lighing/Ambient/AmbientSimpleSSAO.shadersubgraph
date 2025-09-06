@@ -907,7 +907,7 @@
     "m_Title": "Specular Ambient",
     "m_Position": {
         "x": -990.0,
-        "y": -90.0
+        "y": -90.00006103515625
     }
 }
 
@@ -1684,7 +1684,7 @@
     "m_ObjectId": "7f9efc15a7c74d028822de51357e8ffa",
     "m_Title": "Diffuse Ambient",
     "m_Position": {
-        "x": -949.9998779296875,
+        "x": -949.9999389648438,
         "y": -616.0
     }
 }
